@@ -1,0 +1,34 @@
+* <title>NASLOV</title>
+* <p>ZEFORGE</p>    //PARAGRAPH
+* <a href="http://zeforge.org/">ZeFORGE<a>
+* <h1>GLAVNI NASLOV</h1>
+* <img>SLIKA
+* <ol></ol>    //ordered list
+           <li></li>
+           <li></li>
+           
+* <ul></ul>    //unordered list
+           <li></li>
+           <li></li>
+* <hr> HORIZONTAL LINE
+
+
+//TABELA
+
+<table border="1">   //debljina linije
+   <thead>           // ZAGLAVLJE
+        <tr>
+             <th>January</th>
+             <th>February</th>
+             <th>March</th>
+        </tr>
+   <thead>
+   <tbody>           // TIJELO
+        <tr>
+             <th>31</th>
+             <th>28</th>
+             <th>30</th>
+        </tr>
+   <tbody>
+</table>
+        
