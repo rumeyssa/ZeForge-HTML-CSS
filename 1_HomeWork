@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ZeForge Community</title>
+  </head>
+  <body>
+    <h1>Misija ZeForge Community-a<hr></h1>
+    <p><b>Vizija ZeForge Community-a</b> jeste
+      Zenica prepoznatljiva kao mjesto koje kreira i okuplja veliki broj stručnjaka iz IT-a, nudi
+      priliku svakome da se dokaže i potiče kreativno razmišljanje.</p>
+      <img src="https://spark.ba/wp-content/uploads/2017/12/ZeForge_Logo.png" alt="logo"  height="100" >
+    <h2>Kontakt podaci</h2>
+    <table border="1">
+   <thead>
+        <tr>
+             <th>ZeForge Academy</th>
+             <th>Email</th>
+             <th>Adresa</th>
+             <th>Logo</th>
+             <th>Društvene mreže</th>
+        </tr>
+   <thead>
+   <tbody height="100">
+        <tr>
+             <th>ZeForge Team</th>
+             <th>academy@zeforge.org</th>
+             <th>Zmaja od Bosne bb, 72000 Zenica</th>
+             <td bgcolor="black"><a href="http://zeforge.org"><img src="https://spark.ba/wp-content/uploads/2017/12/ZeForge_Logo.png" alt="logo"  height="100"></a></td>
+             <th><a href="https://www.facebook.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCvNqqJmZXihsGO0GbWLxY6P6ZDKcHRtzV2AXArF17CRFY75zFg" alt="" height="100"></a></th>
+        </tr>
+   <tbody>
+</table>
+  </body>
+</html>
