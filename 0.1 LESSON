@@ -1,0 +1,43 @@
+HTML
+*<div class="big">
+ </div>     //.big
+ 
+*<div id="content">
+ </div>     //#content
+ 
+ *<div class="abc">
+     <div>
+  <p>Hello there</p>
+     </div>
+  </div>            //div.abc p
+  
+  * <img src="small.gif"/>
+
+CSS
+*width
+*font-size
+ *img [src="small.gif"]{
+  border:1px solid #000;
+  }
+  
+*PSEUDO KLASE ZA LINK
+ :link
+ :visited
+ :hover
+ :active
+ 
+ ...
+ :after
+ :before
+ :first-child
+ 
+ 
+ POSITION
+ -static
+ -relative
+ -absolute
+ -fixed
+ 
+ 
+ float:right/left
+ clear:left/right/both
